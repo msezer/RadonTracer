@@ -95,6 +95,11 @@ public class MainCalculator {
 		this.eiv = eivi;
 		this.efv = efvi;
 		this.dpr = dpri;
+		
 		return result;
+	}
+	
+	public double MeanCalculater(int adp){
+		return 0;
 	}
 }
