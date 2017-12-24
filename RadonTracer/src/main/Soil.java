@@ -4,6 +4,11 @@ import java.util.Date;
 
 public class Soil {
 	
+	public Soil(Date sDate, Double sObserv) {
+		super();
+		this.sDate = sDate;
+		this.sObserv = sObserv;
+	}
 	public Date sDate;
 	public Double sObserv;
 	

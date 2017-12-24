@@ -4,6 +4,11 @@ import java.util.Date;
 
 public class Earthquake {
 	
+	public Earthquake(Date eDate, Double eMe) {
+		super();
+		this.eDate = eDate;
+		this.eMe = eMe;
+	}
 	public Date eDate;
 	public Double eMe;
 	
