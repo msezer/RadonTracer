@@ -85,15 +85,15 @@ public class RadonTracerView{
 		radonFields[0].setToolTipText("Anomaly Detection Period (+- hours)");
 		radonFields[0].setText("12");
 		radonFields[1].setToolTipText("Anomaly Initial Value (%)");
-		radonFields[1].setText("30");
+		radonFields[1].setText("12");
 		radonFields[2].setToolTipText("Anomaly Final Value (%)");	
 		radonFields[2].setText("100");
 		radonFields[3].setToolTipText("Magnitute Initial Value (0.01)");
-		radonFields[3].setText("0");
+		radonFields[3].setText("5");
 		radonFields[4].setToolTipText("Magnitute Final Value (0.01)");
 		radonFields[4].setText("10");
 		radonFields[5].setToolTipText("Detection Period (+- hours)");
-		radonFields[5].setText("48");
+		radonFields[5].setText("24");
 
 		radonLabels[0].setText("ADP");	radonLabelInfos[0].setText("Anomaly Detection Period (+- hours)");
 		radonLabels[1].setText("AIV");	radonLabelInfos[1].setText("Anomaly Initial Value (%)");

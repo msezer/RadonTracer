@@ -117,8 +117,15 @@ public class MainCalculator {
 				for (int adpc = 0; adpc < soils.size(); adpc++) {
 					if (soils.get(is).getsDate().getTime() - soils.get(adpc).getsDate().getTime() <= adp * 60 * 60 * 1000 && 
 							soils.get(adpc).getsDate().getTime() - soils.get(is).getsDate().getTime() <= adp * 60 * 60 * 1000) {
-						soil_mean = soil_mean + soils.get(adpc).getsObserv();
-						adpCounter++;
+						
+						// not considering the me values less than 75.
+						if (soils.get(adpc).getsObserv() > 75) {
+							soil_mean = soil_mean + soils.get(adpc).getsObserv();
+							adpCounter++;
+						} else {
+							// do nothing
+						}
+						
 					} else {
 						// do nothing
 					}
