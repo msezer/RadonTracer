@@ -10,6 +10,8 @@ import java.awt.Dimension;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -29,11 +31,11 @@ public class RadonTracerView{
 
 	private final JFrame radonFrame;
 
-    private JTextField radonAnswerField;
-    
-    private MainCalculator calculator;
+	private JTextField radonAnswerField;
 
-    public RadonTracerView(MainCalculator calculator_i){
+	private MainCalculator calculator;
+
+	public RadonTracerView(MainCalculator calculator_i){
 		super();
 		this.calculator = calculator_i;
 		radonFrame = new JFrame("Radon Anomaly Observer (Kulali & Sezer)");
@@ -48,12 +50,27 @@ public class RadonTracerView{
 	private void initializeComponents(JFrame inradonFrame) {
 
 		// initialize components
-        JLabel[] radonLabels = new JLabel[6];
-        JLabel[] radonLabelInfos = new JLabel[6];
-        JTextField[] radonFields = new JTextField[6];
-        JButton btnCalculate = new JButton("Calculate Possibility");
-		btnCalculate.addActionListener(e -> radonAnswerField.setText(
-				Double.toString(calculator.AnomalyCalculate(1, 2, 3, 4, 5, 6))));
+		JLabel[] radonLabels = new JLabel[6];
+		JLabel[] radonLabelInfos = new JLabel[6];
+		JTextField[] radonFields = new JTextField[6];
+		JButton btnCalculate = new JButton("Calculate Possibility");
+		btnCalculate.addActionListener(new ActionListener()
+		{
+			public void actionPerformed(ActionEvent e)
+			{
+				radonAnswerField.setText("...");
+				String in_result = calculator.AnomalyCalculate(
+						Integer.parseInt(radonFields[0].getText()), 
+						Integer.parseInt(radonFields[1].getText()), 
+						Integer.parseInt(radonFields[2].getText()), 
+						Integer.parseInt(radonFields[3].getText()), 
+						Integer.parseInt(radonFields[4].getText()), 
+						Integer.parseInt(radonFields[5].getText())
+						);
+				radonAnswerField.setText(in_result);
+			}
+		});
+
 		btnCalculate.setPreferredSize(new Dimension(200, 40));
 		radonAnswerField = new JTextField();
 		radonAnswerField.setEnabled(false);
@@ -65,22 +82,24 @@ public class RadonTracerView{
 			radonLabelInfos[i] = new JLabel(String.valueOf(0));
 		}
 
-		// assign values
-		/*
-		 * 0 ADP, 1 AIV, 2 AFV, 3 EIV, 4 EFV, 5 DPR
-		 * */
-		radonFields[0].setToolTipText("Anomaly Detection Period (+- hours)");	
+		radonFields[0].setToolTipText("Anomaly Detection Period (+- hours)");
+		radonFields[0].setText("12");
 		radonFields[1].setToolTipText("Anomaly Initial Value (%)");
+		radonFields[1].setText("30");
 		radonFields[2].setToolTipText("Anomaly Final Value (%)");	
+		radonFields[2].setText("100");
 		radonFields[3].setToolTipText("Magnitute Initial Value (0.01)");
-		radonFields[4].setToolTipText("Magnitute Final Value (0.01)");	
+		radonFields[3].setText("0");
+		radonFields[4].setToolTipText("Magnitute Final Value (0.01)");
+		radonFields[4].setText("10");
 		radonFields[5].setToolTipText("Detection Period (+- hours)");
+		radonFields[5].setText("48");
 
 		radonLabels[0].setText("ADP");	radonLabelInfos[0].setText("Anomaly Detection Period (+- hours)");
 		radonLabels[1].setText("AIV");	radonLabelInfos[1].setText("Anomaly Initial Value (%)");
 		radonLabels[2].setText("AFV");	radonLabelInfos[2].setText("Anomaly Final Value (%)");
-		radonLabels[3].setText("EIV");	radonLabelInfos[3].setText("Magnitude Initial Value (0.01)");
-		radonLabels[4].setText("EFV");	radonLabelInfos[4].setText("Magnitude Final Value (0.01)");
+		radonLabels[3].setText("EIV");	radonLabelInfos[3].setText("Magnitude Initial Value (0-25)");
+		radonLabels[4].setText("EFV");	radonLabelInfos[4].setText("Magnitude Final Value (0-25)");
 		radonLabels[5].setText("DPR");	radonLabelInfos[5].setText("Detection Period (+- hours)");
 
 		// Set the main panel
@@ -94,7 +113,7 @@ public class RadonTracerView{
 		// Anomaly starts here
 		// instantiation of panel
 		// set border for panel
-        JPanel panelanomaly = new JPanel();
+		JPanel panelanomaly = new JPanel();
 		panelanomaly.setBorder(new TitledBorder(new LineBorder(new Color(0, 0, 0), 1, true), "Anomaly", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
 
 		// set constraints for Frame
@@ -130,7 +149,7 @@ public class RadonTracerView{
 		// earthquake starts here
 		// instantiation of panel
 		// set border for panel
-        JPanel panelearthquake = new JPanel();
+		JPanel panelearthquake = new JPanel();
 		panelearthquake.setBorder(new TitledBorder(new LineBorder(new Color(0, 0, 0), 1, true), "Earthquake", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
 
 		// set constraints for Frame
@@ -165,7 +184,7 @@ public class RadonTracerView{
 		// detection starts here
 		// instantiation of panel
 		// set border for panel
-        JPanel paneldetection = new JPanel();
+		JPanel paneldetection = new JPanel();
 		paneldetection.setBorder(new TitledBorder(new LineBorder(new Color(0, 0, 0), 1, true), "Detection", TitledBorder.LEADING, TitledBorder.TOP, null, new Color(0, 0, 0)));
 
 		// set constraints for Frame
@@ -195,7 +214,7 @@ public class RadonTracerView{
 		paneldetection.add(radonLabelInfos[5], gbc_defaultElements);
 
 		// calculate part starts here
-		
+
 		GridBagConstraints gbc_Calculate = new GridBagConstraints();
 		gbc_Calculate.gridx = 0;
 		gbc_Calculate.gridy = 3;
@@ -205,7 +224,7 @@ public class RadonTracerView{
 		radonFrame.getContentPane().add(panelearthquake, gbc_panel_earthquake);
 		radonFrame.getContentPane().add(paneldetection, gbc_panel_detect);
 		radonFrame.getContentPane().add(btnCalculate, gbc_Calculate);
-		
+
 		GridBagConstraints gbc_Result = new GridBagConstraints();
 		gbc_Result.gridx = 0;
 		gbc_Result.gridy = 4;
