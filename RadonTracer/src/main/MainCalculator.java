@@ -214,6 +214,6 @@ public class MainCalculator {
 			e.printStackTrace();
 		}
 		
-		return result;
+		return adp + "-" + aiv + "-" + afv + "-" + eiv + "-" + efv + "-" + dpr + " -> " + result;
 	}
 }

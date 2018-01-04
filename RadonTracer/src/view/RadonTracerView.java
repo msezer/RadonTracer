@@ -76,7 +76,7 @@ public class RadonTracerView{
 		btnCalculate.setPreferredSize(new Dimension(200, 40));
 		radonAnswerField = new JTextField();
 		radonAnswerField.setEnabled(false);
-		radonAnswerField.setPreferredSize(new Dimension(200, 60));
+		radonAnswerField.setPreferredSize(new Dimension(360, 60));
 
 		for (int i = 0; i < radonLabels.length; i++) {
 			radonFields[i] = new JTextField(String.valueOf(0));
