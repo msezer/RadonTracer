@@ -1,767 +1,133 @@
 Radon Tracer Results
 
-Date-Time of Calculation: 2018-01-04T18:48:31.704
+Date-Time of Calculation: 2018-01-05T00:41:10.820
 
-Values: 12, 12, 100, 5, 10, 24
+Values: 12, 12, 30, 5, 10, 24
+
 Anomaly # 1.0			Anomaly at index: 3337		Value: 133.12		Time: Thu May 24 11:50:00 EEST 2012
-E.quake # 1.0			Anomaly at index: 1163		Value: 5.106			Time: Thu May 24 15:11:29 EEST 2012
+E.quake # 1.0			Anomaly at index: 1164		Value: 5.106			Time: Thu May 24 15:11:29 EEST 2012
 
 Anomaly # 2.0			Anomaly at index: 4034		Value: 124.928		Time: Tue May 29 11:20:00 EEST 2012
+E.quake # 2.0			Anomaly at index: 1255		Value: 5.598			Time: Tue May 29 16:44:30 EEST 2012
+
 Anomaly # 3.0			Anomaly at index: 5866		Value: 121.856		Time: Mon Jun 11 07:50:00 EEST 2012
+E.quake # 3.0			Anomaly at index: 1697		Value: 5.233			Time: Mon Jun 11 09:58:50 EEST 2012
+
 Anomaly # 4.0			Anomaly at index: 6123		Value: 119.808		Time: Wed Jun 13 05:30:00 EEST 2012
+E.quake # 4.0			Anomaly at index: 1804		Value: 6.446			Time: Wed Jun 13 09:40:32 EEST 2012
+
 Anomaly # 5.0			Anomaly at index: 6430		Value: 116.224		Time: Fri Jun 15 08:40:00 EEST 2012
+E.quake # 5.0			Anomaly at index: 1877		Value: 5.666			Time: Fri Jun 15 11:55:15 EEST 2012
+
 Anomaly # 6.0			Anomaly at index: 6458		Value: 115.712		Time: Fri Jun 15 13:20:00 EEST 2012
+E.quake # 6.0			Anomaly at index: 1886		Value: 5.145			Time: Sat Jun 16 04:37:48 EEST 2012
+
 Anomaly # 7.0			Anomaly at index: 6562		Value: 115.2		Time: Sat Jun 16 06:40:00 EEST 2012
+E.quake # 7.0			Anomaly at index: 1894		Value: 5.326			Time: Sat Jun 16 12:37:46 EEST 2012
+
 Anomaly # 8.0			Anomaly at index: 6584		Value: 114.688		Time: Sat Jun 16 10:20:00 EEST 2012
+E.quake # 8.0			Anomaly at index: 1894		Value: 5.326			Time: Sat Jun 16 12:37:46 EEST 2012
+
 Anomaly # 9.0			Anomaly at index: 6598		Value: 116.224		Time: Sat Jun 16 12:40:00 EEST 2012
+E.quake # 9.0			Anomaly at index: 1897		Value: 5.51			Time: Sat Jun 16 15:00:57 EEST 2012
+
 Anomaly # 10.0			Anomaly at index: 6826		Value: 113.664		Time: Mon Jun 18 02:40:00 EEST 2012
-Anomaly # 11.0			Anomaly at index: 6872		Value: 112.128		Time: Mon Jun 18 10:20:00 EEST 2012
-Anomaly # 12.0			Anomaly at index: 6906		Value: 110.592		Time: Mon Jun 18 19:00:00 EEST 2012
-Anomaly # 13.0			Anomaly at index: 8991		Value: 104.448		Time: Tue Jul 03 12:50:00 EEST 2012
-Anomaly # 14.0			Anomaly at index: 12287		Value: 113.664		Time: Thu Jul 26 20:40:00 EEST 2012
-Anomaly # 15.0			Anomaly at index: 12288		Value: 114.176		Time: Thu Jul 26 20:50:00 EEST 2012
-Anomaly # 16.0			Anomaly at index: 12927		Value: 113.152		Time: Tue Jul 31 11:00:00 EEST 2012
-Anomaly # 17.0			Anomaly at index: 13212		Value: 121.344		Time: Thu Aug 02 10:30:00 EEST 2012
-Anomaly # 18.0			Anomaly at index: 15526		Value: 118.272		Time: Sat Aug 18 20:20:00 EEST 2012
-Anomaly # 19.0			Anomaly at index: 15624		Value: 110.592		Time: Sun Aug 19 12:40:00 EEST 2012
-E.quake # 2.0			Anomaly at index: 3031		Value: 5.141			Time: Mon Aug 20 00:56:29 EEST 2012
-
-Anomaly # 20.0			Anomaly at index: 15667		Value: 107.008		Time: Sun Aug 19 19:50:00 EEST 2012
-E.quake # 3.0			Anomaly at index: 3031		Value: 5.141			Time: Mon Aug 20 00:56:29 EEST 2012
-
-Anomaly # 21.0			Anomaly at index: 15789		Value: 103.936		Time: Mon Aug 20 19:10:00 EEST 2012
-E.quake # 4.0			Anomaly at index: 3044		Value: 5.445			Time: Mon Aug 20 22:00:42 EEST 2012
-
-Anomaly # 22.0			Anomaly at index: 15916		Value: 105.984		Time: Tue Aug 21 16:20:00 EEST 2012
-E.quake # 5.0			Anomaly at index: 3056		Value: 6.097			Time: Tue Aug 21 23:47:23 EEST 2012
-
-Anomaly # 23.0			Anomaly at index: 16032		Value: 106.496		Time: Wed Aug 22 11:40:00 EEST 2012
-E.quake # 6.0			Anomaly at index: 3068		Value: 5.528			Time: Thu Aug 23 05:54:44 EEST 2012
-
-Anomaly # 24.0			Anomaly at index: 16722		Value: 114.176		Time: Mon Aug 27 06:40:00 EEST 2012
-Anomaly # 25.0			Anomaly at index: 17424		Value: 120.32		Time: Sat Sep 01 08:10:00 EEST 2012
-E.quake # 7.0			Anomaly at index: 3201		Value: 5.545			Time: Sun Sep 02 01:01:27 EEST 2012
-
-Anomaly # 26.0			Anomaly at index: 18417		Value: 116.224		Time: Sat Sep 08 09:00:00 EEST 2012
-E.quake # 8.0			Anomaly at index: 3266		Value: 5.301			Time: Sat Sep 08 16:34:56 EEST 2012
-
-Anomaly # 27.0			Anomaly at index: 21153		Value: 150.528		Time: Thu Sep 27 18:10:00 EEST 2012
-E.quake # 9.0			Anomaly at index: 3469		Value: 5.18			Time: Thu Sep 27 22:00:25 EEST 2012
-
-Anomaly # 28.0			Anomaly at index: 21160		Value: 118.272		Time: Thu Sep 27 19:20:00 EEST 2012
-E.quake # 10.0			Anomaly at index: 3469		Value: 5.18			Time: Thu Sep 27 22:00:25 EEST 2012
-
-Anomaly # 29.0			Anomaly at index: 21669		Value: 111.616		Time: Mon Oct 01 08:10:00 EEST 2012
-E.quake # 11.0			Anomaly at index: 3530		Value: 5.516			Time: Mon Oct 01 15:02:43 EEST 2012
-
-Anomaly # 30.0			Anomaly at index: 21684		Value: 109.056		Time: Mon Oct 01 10:40:00 EEST 2012
-E.quake # 12.0			Anomaly at index: 3530		Value: 5.516			Time: Mon Oct 01 15:02:43 EEST 2012
-
-Anomaly # 31.0			Anomaly at index: 21685		Value: 108.544		Time: Mon Oct 01 10:50:00 EEST 2012
-E.quake # 13.0			Anomaly at index: 3530		Value: 5.516			Time: Mon Oct 01 15:02:43 EEST 2012
-
-Anomaly # 32.0			Anomaly at index: 21688		Value: 108.032		Time: Mon Oct 01 11:20:00 EEST 2012
-E.quake # 14.0			Anomaly at index: 3530		Value: 5.516			Time: Mon Oct 01 15:02:43 EEST 2012
-
-Anomaly # 33.0			Anomaly at index: 25265		Value: 109.568		Time: Fri Oct 26 22:50:00 EEST 2012
-E.quake # 15.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 34.0			Anomaly at index: 25266		Value: 113.152		Time: Fri Oct 26 23:00:00 EEST 2012
-E.quake # 16.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 35.0			Anomaly at index: 25267		Value: 110.08		Time: Fri Oct 26 23:10:00 EEST 2012
-E.quake # 17.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 36.0			Anomaly at index: 25268		Value: 107.52		Time: Fri Oct 26 23:20:00 EEST 2012
-E.quake # 18.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 37.0			Anomaly at index: 25269		Value: 107.008		Time: Fri Oct 26 23:30:00 EEST 2012
-E.quake # 19.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 38.0			Anomaly at index: 25270		Value: 104.448		Time: Fri Oct 26 23:40:00 EEST 2012
-E.quake # 20.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 39.0			Anomaly at index: 25284		Value: 101.376		Time: Sat Oct 27 02:00:00 EEST 2012
-E.quake # 21.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 40.0			Anomaly at index: 25287		Value: 101.888		Time: Sat Oct 27 02:30:00 EEST 2012
-E.quake # 22.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 41.0			Anomaly at index: 25288		Value: 101.888		Time: Sat Oct 27 02:40:00 EEST 2012
-E.quake # 23.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 42.0			Anomaly at index: 25289		Value: 101.888		Time: Sat Oct 27 02:50:00 EEST 2012
-E.quake # 24.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 43.0			Anomaly at index: 25290		Value: 100.352		Time: Sat Oct 27 03:00:00 EEST 2012
-E.quake # 25.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 44.0			Anomaly at index: 25293		Value: 105.472		Time: Sat Oct 27 03:30:00 EEST 2012
-E.quake # 26.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 45.0			Anomaly at index: 25294		Value: 107.52		Time: Sat Oct 27 03:40:00 EEST 2012
-E.quake # 27.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 46.0			Anomaly at index: 25296		Value: 105.472		Time: Sat Oct 27 04:00:00 EEST 2012
-E.quake # 28.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 47.0			Anomaly at index: 25297		Value: 104.448		Time: Sat Oct 27 04:10:00 EEST 2012
-E.quake # 29.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 48.0			Anomaly at index: 25298		Value: 102.4		Time: Sat Oct 27 04:20:00 EEST 2012
-E.quake # 30.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 49.0			Anomaly at index: 25299		Value: 101.888		Time: Sat Oct 27 04:30:00 EEST 2012
-E.quake # 31.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 50.0			Anomaly at index: 25300		Value: 104.96		Time: Sat Oct 27 04:40:00 EEST 2012
-E.quake # 32.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 51.0			Anomaly at index: 25301		Value: 101.376		Time: Sat Oct 27 04:50:00 EEST 2012
-E.quake # 33.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 52.0			Anomaly at index: 25302		Value: 101.376		Time: Sat Oct 27 05:00:00 EEST 2012
-E.quake # 34.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 53.0			Anomaly at index: 25303		Value: 103.424		Time: Sat Oct 27 05:10:00 EEST 2012
-E.quake # 35.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 54.0			Anomaly at index: 25304		Value: 113.152		Time: Sat Oct 27 05:20:00 EEST 2012
-E.quake # 36.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 55.0			Anomaly at index: 25305		Value: 100.864		Time: Sat Oct 27 05:30:00 EEST 2012
-E.quake # 37.0			Anomaly at index: 3848		Value: 5.037			Time: Sat Oct 27 05:37:59 EEST 2012
-
-Anomaly # 56.0			Anomaly at index: 25306		Value: 101.376		Time: Sat Oct 27 05:40:00 EEST 2012
-Anomaly # 57.0			Anomaly at index: 25307		Value: 108.544		Time: Sat Oct 27 05:50:00 EEST 2012
-Anomaly # 58.0			Anomaly at index: 25308		Value: 106.496		Time: Sat Oct 27 06:00:00 EEST 2012
-Anomaly # 59.0			Anomaly at index: 25309		Value: 103.424		Time: Sat Oct 27 06:10:00 EEST 2012
-Anomaly # 60.0			Anomaly at index: 25310		Value: 105.984		Time: Sat Oct 27 06:20:00 EEST 2012
-Anomaly # 61.0			Anomaly at index: 25311		Value: 100.352		Time: Sat Oct 27 06:30:00 EEST 2012
-Anomaly # 62.0			Anomaly at index: 25312		Value: 109.056		Time: Sat Oct 27 06:40:00 EEST 2012
-Anomaly # 63.0			Anomaly at index: 25313		Value: 101.376		Time: Sat Oct 27 06:50:00 EEST 2012
-Anomaly # 64.0			Anomaly at index: 25314		Value: 102.912		Time: Sat Oct 27 07:00:00 EEST 2012
-Anomaly # 65.0			Anomaly at index: 25315		Value: 100.864		Time: Sat Oct 27 07:10:00 EEST 2012
-Anomaly # 66.0			Anomaly at index: 25346		Value: 98.304		Time: Sat Oct 27 12:20:00 EEST 2012
-E.quake # 38.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 67.0			Anomaly at index: 25348		Value: 102.912		Time: Sat Oct 27 12:40:00 EEST 2012
-E.quake # 39.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 68.0			Anomaly at index: 25350		Value: 99.84		Time: Sat Oct 27 13:00:00 EEST 2012
-E.quake # 40.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 69.0			Anomaly at index: 25351		Value: 107.008		Time: Sat Oct 27 13:10:00 EEST 2012
-E.quake # 41.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 70.0			Anomaly at index: 25352		Value: 101.888		Time: Sat Oct 27 13:20:00 EEST 2012
-E.quake # 42.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 71.0			Anomaly at index: 25353		Value: 103.424		Time: Sat Oct 27 13:30:00 EEST 2012
-E.quake # 43.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 72.0			Anomaly at index: 25354		Value: 103.424		Time: Sat Oct 27 13:40:00 EEST 2012
-E.quake # 44.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 73.0			Anomaly at index: 25356		Value: 111.104		Time: Sat Oct 27 14:00:00 EEST 2012
-E.quake # 45.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 74.0			Anomaly at index: 25357		Value: 104.96		Time: Sat Oct 27 14:10:00 EEST 2012
-E.quake # 46.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 75.0			Anomaly at index: 25358		Value: 107.52		Time: Sat Oct 27 14:20:00 EEST 2012
-E.quake # 47.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 76.0			Anomaly at index: 25359		Value: 101.376		Time: Sat Oct 27 14:30:00 EEST 2012
-E.quake # 48.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 77.0			Anomaly at index: 25360		Value: 101.376		Time: Sat Oct 27 14:40:00 EEST 2012
-E.quake # 49.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 78.0			Anomaly at index: 25361		Value: 103.936		Time: Sat Oct 27 14:50:00 EEST 2012
-E.quake # 50.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 79.0			Anomaly at index: 25362		Value: 106.496		Time: Sat Oct 27 15:00:00 EEST 2012
-E.quake # 51.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 80.0			Anomaly at index: 25363		Value: 107.008		Time: Sat Oct 27 15:10:00 EEST 2012
-E.quake # 52.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 81.0			Anomaly at index: 25364		Value: 103.936		Time: Sat Oct 27 15:20:00 EEST 2012
-E.quake # 53.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 82.0			Anomaly at index: 25365		Value: 111.616		Time: Sat Oct 27 15:30:00 EEST 2012
-E.quake # 54.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 83.0			Anomaly at index: 25366		Value: 106.496		Time: Sat Oct 27 15:40:00 EEST 2012
-E.quake # 55.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 84.0			Anomaly at index: 25367		Value: 108.032		Time: Sat Oct 27 15:50:00 EEST 2012
-E.quake # 56.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 85.0			Anomaly at index: 25368		Value: 101.888		Time: Sat Oct 27 16:00:00 EEST 2012
-E.quake # 57.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 86.0			Anomaly at index: 25369		Value: 107.52		Time: Sat Oct 27 16:10:00 EEST 2012
-E.quake # 58.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 87.0			Anomaly at index: 25370		Value: 101.888		Time: Sat Oct 27 16:20:00 EEST 2012
-E.quake # 59.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 88.0			Anomaly at index: 25371		Value: 104.448		Time: Sat Oct 27 16:30:00 EEST 2012
-E.quake # 60.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 89.0			Anomaly at index: 25372		Value: 109.056		Time: Sat Oct 27 16:40:00 EEST 2012
-E.quake # 61.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 90.0			Anomaly at index: 25373		Value: 104.448		Time: Sat Oct 27 16:50:00 EEST 2012
-E.quake # 62.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 91.0			Anomaly at index: 25374		Value: 100.352		Time: Sat Oct 27 17:00:00 EEST 2012
-E.quake # 63.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 92.0			Anomaly at index: 25375		Value: 109.056		Time: Sat Oct 27 17:10:00 EEST 2012
-E.quake # 64.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 93.0			Anomaly at index: 25376		Value: 102.912		Time: Sat Oct 27 17:20:00 EEST 2012
-E.quake # 65.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 94.0			Anomaly at index: 25377		Value: 105.984		Time: Sat Oct 27 17:30:00 EEST 2012
-E.quake # 66.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 95.0			Anomaly at index: 25378		Value: 100.352		Time: Sat Oct 27 17:40:00 EEST 2012
-E.quake # 67.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 96.0			Anomaly at index: 25379		Value: 105.472		Time: Sat Oct 27 17:50:00 EEST 2012
-E.quake # 68.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 97.0			Anomaly at index: 25380		Value: 107.008		Time: Sat Oct 27 18:00:00 EEST 2012
-E.quake # 69.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 98.0			Anomaly at index: 25381		Value: 107.52		Time: Sat Oct 27 18:10:00 EEST 2012
-E.quake # 70.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 99.0			Anomaly at index: 25382		Value: 101.888		Time: Sat Oct 27 18:20:00 EEST 2012
-E.quake # 71.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 100.0			Anomaly at index: 25383		Value: 103.424		Time: Sat Oct 27 18:30:00 EEST 2012
-E.quake # 72.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 101.0			Anomaly at index: 25384		Value: 105.984		Time: Sat Oct 27 18:40:00 EEST 2012
-E.quake # 73.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 102.0			Anomaly at index: 25385		Value: 99.328		Time: Sat Oct 27 18:50:00 EEST 2012
-E.quake # 74.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 103.0			Anomaly at index: 25386		Value: 104.448		Time: Sat Oct 27 19:00:00 EEST 2012
-E.quake # 75.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 104.0			Anomaly at index: 25387		Value: 105.984		Time: Sat Oct 27 19:10:00 EEST 2012
-E.quake # 76.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 105.0			Anomaly at index: 25388		Value: 101.376		Time: Sat Oct 27 19:20:00 EEST 2012
-E.quake # 77.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 106.0			Anomaly at index: 25389		Value: 100.864		Time: Sat Oct 27 19:30:00 EEST 2012
-E.quake # 78.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 107.0			Anomaly at index: 25390		Value: 101.888		Time: Sat Oct 27 19:40:00 EEST 2012
-E.quake # 79.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 108.0			Anomaly at index: 25391		Value: 91.648		Time: Sat Oct 27 19:50:00 EEST 2012
-E.quake # 80.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 109.0			Anomaly at index: 25392		Value: 95.744		Time: Sat Oct 27 20:00:00 EEST 2012
-E.quake # 81.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 110.0			Anomaly at index: 25393		Value: 91.136		Time: Sat Oct 27 20:10:00 EEST 2012
-E.quake # 82.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 111.0			Anomaly at index: 25394		Value: 99.84		Time: Sat Oct 27 20:20:00 EEST 2012
-E.quake # 83.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 112.0			Anomaly at index: 25395		Value: 95.744		Time: Sat Oct 27 20:30:00 EEST 2012
-E.quake # 84.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 113.0			Anomaly at index: 25396		Value: 95.232		Time: Sat Oct 27 20:40:00 EEST 2012
-E.quake # 85.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 114.0			Anomaly at index: 25397		Value: 93.184		Time: Sat Oct 27 20:50:00 EEST 2012
-E.quake # 86.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 115.0			Anomaly at index: 25398		Value: 100.864		Time: Sat Oct 27 21:00:00 EEST 2012
-E.quake # 87.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 116.0			Anomaly at index: 25399		Value: 102.4		Time: Sat Oct 27 21:10:00 EEST 2012
-E.quake # 88.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 117.0			Anomaly at index: 25400		Value: 101.376		Time: Sat Oct 27 21:20:00 EEST 2012
-E.quake # 89.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 118.0			Anomaly at index: 25401		Value: 96.768		Time: Sat Oct 27 21:30:00 EEST 2012
-E.quake # 90.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 119.0			Anomaly at index: 25402		Value: 100.864		Time: Sat Oct 27 21:40:00 EEST 2012
-E.quake # 91.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 120.0			Anomaly at index: 25403		Value: 104.448		Time: Sat Oct 27 21:50:00 EEST 2012
-E.quake # 92.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 121.0			Anomaly at index: 25404		Value: 97.792		Time: Sat Oct 27 22:00:00 EEST 2012
-E.quake # 93.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 122.0			Anomaly at index: 25405		Value: 102.912		Time: Sat Oct 27 22:10:00 EEST 2012
-E.quake # 94.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 123.0			Anomaly at index: 25406		Value: 105.984		Time: Sat Oct 27 22:20:00 EEST 2012
-E.quake # 95.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 124.0			Anomaly at index: 25407		Value: 102.4		Time: Sat Oct 27 22:30:00 EEST 2012
-E.quake # 96.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 125.0			Anomaly at index: 25408		Value: 106.496		Time: Sat Oct 27 22:40:00 EEST 2012
-E.quake # 97.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 126.0			Anomaly at index: 25409		Value: 98.304		Time: Sat Oct 27 22:50:00 EEST 2012
-E.quake # 98.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 127.0			Anomaly at index: 25410		Value: 91.648		Time: Sat Oct 27 23:00:00 EEST 2012
-E.quake # 99.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 128.0			Anomaly at index: 25411		Value: 96.256		Time: Sat Oct 27 23:10:00 EEST 2012
-E.quake # 100.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 129.0			Anomaly at index: 25412		Value: 98.816		Time: Sat Oct 27 23:20:00 EEST 2012
-E.quake # 101.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 130.0			Anomaly at index: 25413		Value: 103.424		Time: Sat Oct 27 23:30:00 EEST 2012
-E.quake # 102.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 131.0			Anomaly at index: 25414		Value: 98.304		Time: Sat Oct 27 23:40:00 EEST 2012
-E.quake # 103.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 132.0			Anomaly at index: 25415		Value: 102.4		Time: Sat Oct 27 23:50:00 EEST 2012
-E.quake # 104.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 133.0			Anomaly at index: 25416		Value: 99.84		Time: Sun Oct 28 00:00:00 EEST 2012
-E.quake # 105.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 134.0			Anomaly at index: 25417		Value: 101.888		Time: Sun Oct 28 00:10:00 EEST 2012
-E.quake # 106.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 135.0			Anomaly at index: 25418		Value: 105.984		Time: Sun Oct 28 00:20:00 EEST 2012
-E.quake # 107.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 136.0			Anomaly at index: 25419		Value: 107.52		Time: Sun Oct 28 00:30:00 EEST 2012
-E.quake # 108.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 137.0			Anomaly at index: 25420		Value: 102.912		Time: Sun Oct 28 00:40:00 EEST 2012
-E.quake # 109.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 138.0			Anomaly at index: 25421		Value: 108.544		Time: Sun Oct 28 00:50:00 EEST 2012
-E.quake # 110.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 139.0			Anomaly at index: 25422		Value: 99.328		Time: Sun Oct 28 01:00:00 EEST 2012
-E.quake # 111.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 140.0			Anomaly at index: 25423		Value: 103.424		Time: Sun Oct 28 01:10:00 EEST 2012
-E.quake # 112.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 141.0			Anomaly at index: 25424		Value: 104.96		Time: Sun Oct 28 01:20:00 EEST 2012
-E.quake # 113.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 142.0			Anomaly at index: 25425		Value: 105.984		Time: Sun Oct 28 01:30:00 EEST 2012
-E.quake # 114.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 143.0			Anomaly at index: 25426		Value: 102.4		Time: Sun Oct 28 01:40:00 EEST 2012
-E.quake # 115.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 144.0			Anomaly at index: 25427		Value: 105.984		Time: Sun Oct 28 01:50:00 EEST 2012
-E.quake # 116.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 145.0			Anomaly at index: 25428		Value: 104.448		Time: Sun Oct 28 02:00:00 EEST 2012
-E.quake # 117.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 146.0			Anomaly at index: 25429		Value: 105.984		Time: Sun Oct 28 02:10:00 EEST 2012
-E.quake # 118.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 147.0			Anomaly at index: 25430		Value: 104.448		Time: Sun Oct 28 02:20:00 EEST 2012
-E.quake # 119.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 148.0			Anomaly at index: 25431		Value: 104.96		Time: Sun Oct 28 02:30:00 EEST 2012
-E.quake # 120.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 149.0			Anomaly at index: 25432		Value: 105.472		Time: Sun Oct 28 02:40:00 EEST 2012
-E.quake # 121.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 150.0			Anomaly at index: 25433		Value: 98.816		Time: Sun Oct 28 02:50:00 EEST 2012
-E.quake # 122.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 151.0			Anomaly at index: 25434		Value: 104.448		Time: Sun Oct 28 03:00:00 EET 2012
-E.quake # 123.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 152.0			Anomaly at index: 25435		Value: 103.424		Time: Sun Oct 28 03:10:00 EET 2012
-E.quake # 124.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 153.0			Anomaly at index: 25436		Value: 98.816		Time: Sun Oct 28 03:20:00 EET 2012
-E.quake # 125.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 154.0			Anomaly at index: 25437		Value: 93.696		Time: Sun Oct 28 03:30:00 EET 2012
-E.quake # 126.0			Anomaly at index: 3855		Value: 6.286			Time: Sun Oct 28 10:49:44 EET 2012
-
-Anomaly # 155.0			Anomaly at index: 25481		Value: 96.768		Time: Sun Oct 28 10:50:00 EET 2012
-E.quake # 127.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 156.0			Anomaly at index: 25482		Value: 99.328		Time: Sun Oct 28 11:00:00 EET 2012
-E.quake # 128.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 157.0			Anomaly at index: 25483		Value: 98.304		Time: Sun Oct 28 11:10:00 EET 2012
-E.quake # 129.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 158.0			Anomaly at index: 25484		Value: 103.424		Time: Sun Oct 28 11:20:00 EET 2012
-E.quake # 130.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 159.0			Anomaly at index: 25485		Value: 99.328		Time: Sun Oct 28 11:30:00 EET 2012
-E.quake # 131.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 160.0			Anomaly at index: 25486		Value: 98.816		Time: Sun Oct 28 11:40:00 EET 2012
-E.quake # 132.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 161.0			Anomaly at index: 25487		Value: 98.304		Time: Sun Oct 28 11:50:00 EET 2012
-E.quake # 133.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 162.0			Anomaly at index: 25488		Value: 105.472		Time: Sun Oct 28 12:00:00 EET 2012
-E.quake # 134.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 163.0			Anomaly at index: 25489		Value: 104.448		Time: Sun Oct 28 12:10:00 EET 2012
-E.quake # 135.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 164.0			Anomaly at index: 25490		Value: 107.008		Time: Sun Oct 28 12:20:00 EET 2012
-E.quake # 136.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 165.0			Anomaly at index: 25491		Value: 104.448		Time: Sun Oct 28 12:30:00 EET 2012
-E.quake # 137.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 166.0			Anomaly at index: 25492		Value: 105.472		Time: Sun Oct 28 12:40:00 EET 2012
-E.quake # 138.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 167.0			Anomaly at index: 25493		Value: 106.496		Time: Sun Oct 28 12:50:00 EET 2012
-E.quake # 139.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 168.0			Anomaly at index: 25494		Value: 108.032		Time: Sun Oct 28 13:00:00 EET 2012
-E.quake # 140.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 169.0			Anomaly at index: 25495		Value: 102.4		Time: Sun Oct 28 13:10:00 EET 2012
-E.quake # 141.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 170.0			Anomaly at index: 25496		Value: 103.936		Time: Sun Oct 28 13:20:00 EET 2012
-E.quake # 142.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 171.0			Anomaly at index: 25497		Value: 103.936		Time: Sun Oct 28 13:30:00 EET 2012
-E.quake # 143.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 172.0			Anomaly at index: 25498		Value: 102.912		Time: Sun Oct 28 13:40:00 EET 2012
-E.quake # 144.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 173.0			Anomaly at index: 25499		Value: 111.104		Time: Sun Oct 28 13:50:00 EET 2012
-E.quake # 145.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 174.0			Anomaly at index: 25500		Value: 106.496		Time: Sun Oct 28 14:00:00 EET 2012
-E.quake # 146.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 175.0			Anomaly at index: 25501		Value: 103.424		Time: Sun Oct 28 14:10:00 EET 2012
-E.quake # 147.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 176.0			Anomaly at index: 25502		Value: 106.496		Time: Sun Oct 28 14:20:00 EET 2012
-E.quake # 148.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 177.0			Anomaly at index: 25503		Value: 104.448		Time: Sun Oct 28 14:30:00 EET 2012
-E.quake # 149.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 178.0			Anomaly at index: 25504		Value: 113.152		Time: Sun Oct 28 14:40:00 EET 2012
-E.quake # 150.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 179.0			Anomaly at index: 25505		Value: 107.008		Time: Sun Oct 28 14:50:00 EET 2012
-E.quake # 151.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 180.0			Anomaly at index: 25506		Value: 108.032		Time: Sun Oct 28 15:00:00 EET 2012
-E.quake # 152.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 181.0			Anomaly at index: 25507		Value: 108.032		Time: Sun Oct 28 15:10:00 EET 2012
-E.quake # 153.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 182.0			Anomaly at index: 25508		Value: 112.64		Time: Sun Oct 28 15:20:00 EET 2012
-E.quake # 154.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 183.0			Anomaly at index: 25509		Value: 107.52		Time: Sun Oct 28 15:30:00 EET 2012
-E.quake # 155.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 184.0			Anomaly at index: 25510		Value: 105.984		Time: Sun Oct 28 15:40:00 EET 2012
-E.quake # 156.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 185.0			Anomaly at index: 25511		Value: 113.152		Time: Sun Oct 28 15:50:00 EET 2012
-E.quake # 157.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 186.0			Anomaly at index: 25512		Value: 108.032		Time: Sun Oct 28 16:00:00 EET 2012
-E.quake # 158.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 187.0			Anomaly at index: 25513		Value: 107.52		Time: Sun Oct 28 16:10:00 EET 2012
-E.quake # 159.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 188.0			Anomaly at index: 25514		Value: 109.568		Time: Sun Oct 28 16:20:00 EET 2012
-E.quake # 160.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 189.0			Anomaly at index: 25515		Value: 101.376		Time: Sun Oct 28 16:30:00 EET 2012
-E.quake # 161.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 190.0			Anomaly at index: 25516		Value: 107.008		Time: Sun Oct 28 16:40:00 EET 2012
-E.quake # 162.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 191.0			Anomaly at index: 25517		Value: 110.08		Time: Sun Oct 28 16:50:00 EET 2012
-E.quake # 163.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 192.0			Anomaly at index: 25518		Value: 110.08		Time: Sun Oct 28 17:00:00 EET 2012
-E.quake # 164.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 193.0			Anomaly at index: 25519		Value: 106.496		Time: Sun Oct 28 17:10:00 EET 2012
-E.quake # 165.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 194.0			Anomaly at index: 25520		Value: 105.472		Time: Sun Oct 28 17:20:00 EET 2012
-E.quake # 166.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 195.0			Anomaly at index: 25521		Value: 105.984		Time: Sun Oct 28 17:30:00 EET 2012
-E.quake # 167.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 196.0			Anomaly at index: 25522		Value: 102.912		Time: Sun Oct 28 17:40:00 EET 2012
-E.quake # 168.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 197.0			Anomaly at index: 25523		Value: 116.224		Time: Sun Oct 28 17:50:00 EET 2012
-E.quake # 169.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 198.0			Anomaly at index: 25524		Value: 111.104		Time: Sun Oct 28 18:00:00 EET 2012
-E.quake # 170.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 199.0			Anomaly at index: 25525		Value: 107.52		Time: Sun Oct 28 18:10:00 EET 2012
-E.quake # 171.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 200.0			Anomaly at index: 25526		Value: 104.96		Time: Sun Oct 28 18:20:00 EET 2012
-E.quake # 172.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 201.0			Anomaly at index: 25527		Value: 105.984		Time: Sun Oct 28 18:30:00 EET 2012
-E.quake # 173.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 202.0			Anomaly at index: 25528		Value: 106.496		Time: Sun Oct 28 18:40:00 EET 2012
-E.quake # 174.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 203.0			Anomaly at index: 25529		Value: 106.496		Time: Sun Oct 28 18:50:00 EET 2012
-E.quake # 175.0			Anomaly at index: 3860		Value: 5.633			Time: Mon Oct 29 00:18:31 EET 2012
-
-Anomaly # 204.0			Anomaly at index: 27390		Value: 154.624		Time: Sat Nov 10 23:50:00 EET 2012
-Anomaly # 205.0			Anomaly at index: 27392		Value: 188.416		Time: Sun Nov 11 00:10:00 EET 2012
-Anomaly # 206.0			Anomaly at index: 28925		Value: 136.192		Time: Wed Nov 21 22:20:00 EET 2012
-Anomaly # 207.0			Anomaly at index: 28926		Value: 137.216		Time: Wed Nov 21 22:30:00 EET 2012
-Anomaly # 208.0			Anomaly at index: 28927		Value: 136.192		Time: Wed Nov 21 22:40:00 EET 2012
-Anomaly # 209.0			Anomaly at index: 28928		Value: 137.216		Time: Wed Nov 21 22:50:00 EET 2012
-Anomaly # 210.0			Anomaly at index: 28929		Value: 140.288		Time: Wed Nov 21 23:00:00 EET 2012
-Anomaly # 211.0			Anomaly at index: 28930		Value: 144.384		Time: Wed Nov 21 23:10:00 EET 2012
-Anomaly # 212.0			Anomaly at index: 28931		Value: 141.312		Time: Wed Nov 21 23:20:00 EET 2012
-Anomaly # 213.0			Anomaly at index: 28932		Value: 137.216		Time: Wed Nov 21 23:30:00 EET 2012
-Anomaly # 214.0			Anomaly at index: 28933		Value: 140.288		Time: Wed Nov 21 23:40:00 EET 2012
-Anomaly # 215.0			Anomaly at index: 28934		Value: 135.168		Time: Wed Nov 21 23:50:00 EET 2012
-Anomaly # 216.0			Anomaly at index: 28935		Value: 138.24		Time: Thu Nov 22 00:00:00 EET 2012
-Anomaly # 217.0			Anomaly at index: 28936		Value: 133.12		Time: Thu Nov 22 00:10:00 EET 2012
-Anomaly # 218.0			Anomaly at index: 28937		Value: 140.288		Time: Thu Nov 22 00:20:00 EET 2012
-Anomaly # 219.0			Anomaly at index: 28938		Value: 133.12		Time: Thu Nov 22 00:30:00 EET 2012
-Anomaly # 220.0			Anomaly at index: 28939		Value: 140.288		Time: Thu Nov 22 00:40:00 EET 2012
-Anomaly # 221.0			Anomaly at index: 28940		Value: 134.144		Time: Thu Nov 22 00:50:00 EET 2012
-Anomaly # 222.0			Anomaly at index: 28942		Value: 142.336		Time: Thu Nov 22 01:10:00 EET 2012
-Anomaly # 223.0			Anomaly at index: 28943		Value: 141.312		Time: Thu Nov 22 01:20:00 EET 2012
-Anomaly # 224.0			Anomaly at index: 28949		Value: 135.168		Time: Thu Nov 22 02:20:00 EET 2012
-Anomaly # 225.0			Anomaly at index: 29454		Value: 125.44		Time: Sun Nov 25 14:30:00 EET 2012
-Anomaly # 226.0			Anomaly at index: 29455		Value: 125.952		Time: Sun Nov 25 14:40:00 EET 2012
-Anomaly # 227.0			Anomaly at index: 31245		Value: 125.952		Time: Sat Dec 08 08:50:00 EET 2012
-Anomaly # 228.0			Anomaly at index: 31249		Value: 122.88		Time: Sat Dec 08 09:30:00 EET 2012
-Anomaly # 229.0			Anomaly at index: 31251		Value: 123.904		Time: Sat Dec 08 09:50:00 EET 2012
-Anomaly # 230.0			Anomaly at index: 31255		Value: 121.344		Time: Sat Dec 08 10:30:00 EET 2012
-Anomaly # 231.0			Anomaly at index: 31258		Value: 120.32		Time: Sat Dec 08 11:00:00 EET 2012
-Anomaly # 232.0			Anomaly at index: 31260		Value: 123.904		Time: Sat Dec 08 11:20:00 EET 2012
-Anomaly # 233.0			Anomaly at index: 31262		Value: 120.832		Time: Sat Dec 08 11:40:00 EET 2012
-Anomaly # 234.0			Anomaly at index: 31264		Value: 122.368		Time: Sat Dec 08 12:00:00 EET 2012
-Anomaly # 235.0			Anomaly at index: 31268		Value: 124.416		Time: Sat Dec 08 12:40:00 EET 2012
-Anomaly # 236.0			Anomaly at index: 31269		Value: 128.512		Time: Sat Dec 08 12:50:00 EET 2012
-Anomaly # 237.0			Anomaly at index: 31272		Value: 123.904		Time: Sat Dec 08 13:20:00 EET 2012
-Anomaly # 238.0			Anomaly at index: 31273		Value: 123.904		Time: Sat Dec 08 13:30:00 EET 2012
-Anomaly # 239.0			Anomaly at index: 31328		Value: 124.928		Time: Sat Dec 08 22:40:00 EET 2012
-Anomaly # 240.0			Anomaly at index: 31329		Value: 123.904		Time: Sat Dec 08 22:50:00 EET 2012
-Anomaly # 241.0			Anomaly at index: 31330		Value: 122.368		Time: Sat Dec 08 23:00:00 EET 2012
-Anomaly # 242.0			Anomaly at index: 31332		Value: 126.464		Time: Sat Dec 08 23:20:00 EET 2012
-Anomaly # 243.0			Anomaly at index: 31335		Value: 123.392		Time: Sat Dec 08 23:50:00 EET 2012
-Anomaly # 244.0			Anomaly at index: 31336		Value: 131.072		Time: Sun Dec 09 00:00:00 EET 2012
-Anomaly # 245.0			Anomaly at index: 31337		Value: 122.88		Time: Sun Dec 09 00:10:00 EET 2012
-Anomaly # 246.0			Anomaly at index: 31338		Value: 131.072		Time: Sun Dec 09 00:20:00 EET 2012
-Anomaly # 247.0			Anomaly at index: 31349		Value: 125.44		Time: Sun Dec 09 02:10:00 EET 2012
-Anomaly # 248.0			Anomaly at index: 31351		Value: 124.928		Time: Sun Dec 09 02:30:00 EET 2012
-Anomaly # 249.0			Anomaly at index: 31358		Value: 123.392		Time: Sun Dec 09 03:40:00 EET 2012
-Anomaly # 250.0			Anomaly at index: 31377		Value: 129.024		Time: Sun Dec 09 06:50:00 EET 2012
-Anomaly # 251.0			Anomaly at index: 31380		Value: 127.488		Time: Sun Dec 09 07:20:00 EET 2012
-Anomaly # 252.0			Anomaly at index: 32184		Value: 136.192		Time: Sat Dec 15 00:30:00 EET 2012
-Anomaly # 253.0			Anomaly at index: 32186		Value: 132.096		Time: Sat Dec 15 00:50:00 EET 2012
-Anomaly # 254.0			Anomaly at index: 32189		Value: 134.144		Time: Sat Dec 15 01:20:00 EET 2012
-Anomaly # 255.0			Anomaly at index: 32193		Value: 133.12		Time: Sat Dec 15 02:00:00 EET 2012
-Anomaly # 256.0			Anomaly at index: 32194		Value: 131.072		Time: Sat Dec 15 02:10:00 EET 2012
-Anomaly # 257.0			Anomaly at index: 32195		Value: 132.096		Time: Sat Dec 15 02:20:00 EET 2012
-Anomaly # 258.0			Anomaly at index: 32196		Value: 132.096		Time: Sat Dec 15 02:30:00 EET 2012
-Anomaly # 259.0			Anomaly at index: 32197		Value: 134.144		Time: Sat Dec 15 02:40:00 EET 2012
-Anomaly # 260.0			Anomaly at index: 32198		Value: 128.0		Time: Sat Dec 15 02:50:00 EET 2012
-Anomaly # 261.0			Anomaly at index: 32199		Value: 133.12		Time: Sat Dec 15 03:00:00 EET 2012
-Anomaly # 262.0			Anomaly at index: 32200		Value: 131.072		Time: Sat Dec 15 03:10:00 EET 2012
-Anomaly # 263.0			Anomaly at index: 32201		Value: 133.12		Time: Sat Dec 15 03:20:00 EET 2012
-Anomaly # 264.0			Anomaly at index: 32202		Value: 135.168		Time: Sat Dec 15 03:30:00 EET 2012
-Anomaly # 265.0			Anomaly at index: 32203		Value: 124.416		Time: Sat Dec 15 03:40:00 EET 2012
-Anomaly # 266.0			Anomaly at index: 32204		Value: 133.12		Time: Sat Dec 15 03:50:00 EET 2012
-Anomaly # 267.0			Anomaly at index: 32205		Value: 125.952		Time: Sat Dec 15 04:00:00 EET 2012
-Anomaly # 268.0			Anomaly at index: 32206		Value: 132.096		Time: Sat Dec 15 04:10:00 EET 2012
-Anomaly # 269.0			Anomaly at index: 32207		Value: 126.976		Time: Sat Dec 15 04:20:00 EET 2012
-Anomaly # 270.0			Anomaly at index: 32208		Value: 126.464		Time: Sat Dec 15 04:30:00 EET 2012
-Anomaly # 271.0			Anomaly at index: 32209		Value: 133.12		Time: Sat Dec 15 04:40:00 EET 2012
-Anomaly # 272.0			Anomaly at index: 32210		Value: 134.144		Time: Sat Dec 15 04:50:00 EET 2012
-Anomaly # 273.0			Anomaly at index: 32211		Value: 128.0		Time: Sat Dec 15 05:00:00 EET 2012
-Anomaly # 274.0			Anomaly at index: 32212		Value: 119.808		Time: Sat Dec 15 05:10:00 EET 2012
-Anomaly # 275.0			Anomaly at index: 32213		Value: 123.904		Time: Sat Dec 15 05:20:00 EET 2012
-Anomaly # 276.0			Anomaly at index: 32214		Value: 120.832		Time: Sat Dec 15 05:30:00 EET 2012
-Anomaly # 277.0			Anomaly at index: 32215		Value: 119.296		Time: Sat Dec 15 05:40:00 EET 2012
-Anomaly # 278.0			Anomaly at index: 32216		Value: 133.12		Time: Sat Dec 15 05:50:00 EET 2012
-Anomaly # 279.0			Anomaly at index: 32217		Value: 132.096		Time: Sat Dec 15 06:00:00 EET 2012
-Anomaly # 280.0			Anomaly at index: 32218		Value: 130.048		Time: Sat Dec 15 06:10:00 EET 2012
-Anomaly # 281.0			Anomaly at index: 32219		Value: 133.12		Time: Sat Dec 15 06:20:00 EET 2012
-Anomaly # 282.0			Anomaly at index: 32220		Value: 139.264		Time: Sat Dec 15 06:30:00 EET 2012
-Anomaly # 283.0			Anomaly at index: 32221		Value: 131.072		Time: Sat Dec 15 06:40:00 EET 2012
-Anomaly # 284.0			Anomaly at index: 32222		Value: 133.12		Time: Sat Dec 15 06:50:00 EET 2012
-Anomaly # 285.0			Anomaly at index: 32223		Value: 136.192		Time: Sat Dec 15 07:00:00 EET 2012
-Anomaly # 286.0			Anomaly at index: 32224		Value: 133.12		Time: Sat Dec 15 07:10:00 EET 2012
-Anomaly # 287.0			Anomaly at index: 32225		Value: 138.24		Time: Sat Dec 15 07:20:00 EET 2012
-Anomaly # 288.0			Anomaly at index: 32226		Value: 123.904		Time: Sat Dec 15 07:30:00 EET 2012
-Anomaly # 289.0			Anomaly at index: 32227		Value: 134.144		Time: Sat Dec 15 07:40:00 EET 2012
-Anomaly # 290.0			Anomaly at index: 32228		Value: 132.096		Time: Sat Dec 15 07:50:00 EET 2012
-Anomaly # 291.0			Anomaly at index: 32229		Value: 131.072		Time: Sat Dec 15 08:00:00 EET 2012
-Anomaly # 292.0			Anomaly at index: 32230		Value: 123.392		Time: Sat Dec 15 08:10:00 EET 2012
-Anomaly # 293.0			Anomaly at index: 32231		Value: 126.464		Time: Sat Dec 15 08:20:00 EET 2012
-Anomaly # 294.0			Anomaly at index: 32232		Value: 138.24		Time: Sat Dec 15 08:30:00 EET 2012
-Anomaly # 295.0			Anomaly at index: 32233		Value: 132.096		Time: Sat Dec 15 08:40:00 EET 2012
-Anomaly # 296.0			Anomaly at index: 32234		Value: 127.488		Time: Sat Dec 15 08:50:00 EET 2012
-Anomaly # 297.0			Anomaly at index: 32235		Value: 125.44		Time: Sat Dec 15 09:00:00 EET 2012
-Anomaly # 298.0			Anomaly at index: 32236		Value: 112.64		Time: Sat Dec 15 09:10:00 EET 2012
-Anomaly # 299.0			Anomaly at index: 32237		Value: 104.448		Time: Sat Dec 15 09:20:00 EET 2012
-Anomaly # 300.0			Anomaly at index: 32238		Value: 99.84		Time: Sat Dec 15 09:30:00 EET 2012
-Anomaly # 301.0			Anomaly at index: 32239		Value: 94.72		Time: Sat Dec 15 09:40:00 EET 2012
-Anomaly # 302.0			Anomaly at index: 32240		Value: 87.552		Time: Sat Dec 15 09:50:00 EET 2012
-Anomaly # 303.0			Anomaly at index: 32312		Value: 107.52		Time: Sat Dec 15 21:50:00 EET 2012
-Anomaly # 304.0			Anomaly at index: 32313		Value: 129.536		Time: Sat Dec 15 22:00:00 EET 2012
-Anomaly # 305.0			Anomaly at index: 32314		Value: 140.288		Time: Sat Dec 15 22:10:00 EET 2012
-Anomaly # 306.0			Anomaly at index: 32315		Value: 132.096		Time: Sat Dec 15 22:20:00 EET 2012
-Anomaly # 307.0			Anomaly at index: 32316		Value: 137.216		Time: Sat Dec 15 22:30:00 EET 2012
-Anomaly # 308.0			Anomaly at index: 32317		Value: 138.24		Time: Sat Dec 15 22:40:00 EET 2012
-Anomaly # 309.0			Anomaly at index: 32318		Value: 139.264		Time: Sat Dec 15 22:50:00 EET 2012
-Anomaly # 310.0			Anomaly at index: 32319		Value: 139.264		Time: Sat Dec 15 23:00:00 EET 2012
-Anomaly # 311.0			Anomaly at index: 32320		Value: 131.072		Time: Sat Dec 15 23:10:00 EET 2012
-Anomaly # 312.0			Anomaly at index: 32321		Value: 142.336		Time: Sat Dec 15 23:20:00 EET 2012
-Anomaly # 313.0			Anomaly at index: 32322		Value: 135.168		Time: Sat Dec 15 23:30:00 EET 2012
-Anomaly # 314.0			Anomaly at index: 32323		Value: 136.192		Time: Sat Dec 15 23:40:00 EET 2012
-Anomaly # 315.0			Anomaly at index: 32324		Value: 139.264		Time: Sat Dec 15 23:50:00 EET 2012
-Anomaly # 316.0			Anomaly at index: 32325		Value: 131.072		Time: Sun Dec 16 00:00:00 EET 2012
-Anomaly # 317.0			Anomaly at index: 32326		Value: 137.216		Time: Sun Dec 16 00:10:00 EET 2012
-Anomaly # 318.0			Anomaly at index: 32327		Value: 136.192		Time: Sun Dec 16 00:20:00 EET 2012
-Anomaly # 319.0			Anomaly at index: 32328		Value: 133.12		Time: Sun Dec 16 00:30:00 EET 2012
-Anomaly # 320.0			Anomaly at index: 32329		Value: 129.536		Time: Sun Dec 16 00:40:00 EET 2012
-Anomaly # 321.0			Anomaly at index: 32330		Value: 139.264		Time: Sun Dec 16 00:50:00 EET 2012
-Anomaly # 322.0			Anomaly at index: 32331		Value: 132.096		Time: Sun Dec 16 01:00:00 EET 2012
-Anomaly # 323.0			Anomaly at index: 32332		Value: 130.048		Time: Sun Dec 16 01:10:00 EET 2012
-Anomaly # 324.0			Anomaly at index: 32333		Value: 127.488		Time: Sun Dec 16 01:20:00 EET 2012
-Anomaly # 325.0			Anomaly at index: 32334		Value: 139.264		Time: Sun Dec 16 01:30:00 EET 2012
-Anomaly # 326.0			Anomaly at index: 32335		Value: 128.512		Time: Sun Dec 16 01:40:00 EET 2012
-Anomaly # 327.0			Anomaly at index: 32336		Value: 130.56		Time: Sun Dec 16 01:50:00 EET 2012
-Anomaly # 328.0			Anomaly at index: 32337		Value: 128.0		Time: Sun Dec 16 02:00:00 EET 2012
-Anomaly # 329.0			Anomaly at index: 32338		Value: 128.0		Time: Sun Dec 16 02:10:00 EET 2012
-Anomaly # 330.0			Anomaly at index: 32339		Value: 122.368		Time: Sun Dec 16 02:20:00 EET 2012
-Anomaly # 331.0			Anomaly at index: 32340		Value: 132.096		Time: Sun Dec 16 02:30:00 EET 2012
-Anomaly # 332.0			Anomaly at index: 32341		Value: 136.192		Time: Sun Dec 16 02:40:00 EET 2012
-Anomaly # 333.0			Anomaly at index: 32342		Value: 123.392		Time: Sun Dec 16 02:50:00 EET 2012
-Anomaly # 334.0			Anomaly at index: 32343		Value: 135.168		Time: Sun Dec 16 03:00:00 EET 2012
-Anomaly # 335.0			Anomaly at index: 32344		Value: 125.952		Time: Sun Dec 16 03:10:00 EET 2012
-Anomaly # 336.0			Anomaly at index: 32345		Value: 133.12		Time: Sun Dec 16 03:20:00 EET 2012
-Anomaly # 337.0			Anomaly at index: 32346		Value: 131.072		Time: Sun Dec 16 03:30:00 EET 2012
-Anomaly # 338.0			Anomaly at index: 32347		Value: 133.12		Time: Sun Dec 16 03:40:00 EET 2012
-Anomaly # 339.0			Anomaly at index: 32348		Value: 129.536		Time: Sun Dec 16 03:50:00 EET 2012
-Anomaly # 340.0			Anomaly at index: 32349		Value: 126.976		Time: Sun Dec 16 04:00:00 EET 2012
-Anomaly # 341.0			Anomaly at index: 32350		Value: 133.12		Time: Sun Dec 16 04:10:00 EET 2012
-Anomaly # 342.0			Anomaly at index: 32351		Value: 133.12		Time: Sun Dec 16 04:20:00 EET 2012
-Anomaly # 343.0			Anomaly at index: 32352		Value: 129.536		Time: Sun Dec 16 04:30:00 EET 2012
-Anomaly # 344.0			Anomaly at index: 32353		Value: 132.096		Time: Sun Dec 16 04:40:00 EET 2012
-Anomaly # 345.0			Anomaly at index: 32354		Value: 128.512		Time: Sun Dec 16 04:50:00 EET 2012
-Anomaly # 346.0			Anomaly at index: 32355		Value: 131.072		Time: Sun Dec 16 05:00:00 EET 2012
-Anomaly # 347.0			Anomaly at index: 32356		Value: 134.144		Time: Sun Dec 16 05:10:00 EET 2012
-Anomaly # 348.0			Anomaly at index: 32357		Value: 131.072		Time: Sun Dec 16 05:20:00 EET 2012
-Anomaly # 349.0			Anomaly at index: 32358		Value: 128.512		Time: Sun Dec 16 05:30:00 EET 2012
-Anomaly # 350.0			Anomaly at index: 32359		Value: 128.512		Time: Sun Dec 16 05:40:00 EET 2012
-Anomaly # 351.0			Anomaly at index: 32360		Value: 135.168		Time: Sun Dec 16 05:50:00 EET 2012
-Anomaly # 352.0			Anomaly at index: 32361		Value: 137.216		Time: Sun Dec 16 06:00:00 EET 2012
-Anomaly # 353.0			Anomaly at index: 32362		Value: 125.44		Time: Sun Dec 16 06:10:00 EET 2012
-Anomaly # 354.0			Anomaly at index: 32363		Value: 130.56		Time: Sun Dec 16 06:20:00 EET 2012
-Anomaly # 355.0			Anomaly at index: 32364		Value: 125.952		Time: Sun Dec 16 06:30:00 EET 2012
-Anomaly # 356.0			Anomaly at index: 32365		Value: 127.488		Time: Sun Dec 16 06:40:00 EET 2012
-Anomaly # 357.0			Anomaly at index: 32366		Value: 128.512		Time: Sun Dec 16 06:50:00 EET 2012
-Anomaly # 358.0			Anomaly at index: 32367		Value: 136.192		Time: Sun Dec 16 07:00:00 EET 2012
-Anomaly # 359.0			Anomaly at index: 32368		Value: 136.192		Time: Sun Dec 16 07:10:00 EET 2012
-Anomaly # 360.0			Anomaly at index: 32369		Value: 137.216		Time: Sun Dec 16 07:20:00 EET 2012
-Anomaly # 361.0			Anomaly at index: 32370		Value: 129.024		Time: Sun Dec 16 07:30:00 EET 2012
-Anomaly # 362.0			Anomaly at index: 32371		Value: 123.904		Time: Sun Dec 16 07:40:00 EET 2012
-Anomaly # 363.0			Anomaly at index: 32372		Value: 121.856		Time: Sun Dec 16 07:50:00 EET 2012
-Anomaly # 364.0			Anomaly at index: 32373		Value: 117.248		Time: Sun Dec 16 08:00:00 EET 2012
-Anomaly # 365.0			Anomaly at index: 32374		Value: 118.784		Time: Sun Dec 16 08:10:00 EET 2012
-Anomaly # 366.0			Anomaly at index: 32375		Value: 116.736		Time: Sun Dec 16 08:20:00 EET 2012
-Anomaly # 367.0			Anomaly at index: 32428		Value: 141.312		Time: Sun Dec 16 17:10:00 EET 2012
-Anomaly # 368.0			Anomaly at index: 32429		Value: 132.096		Time: Sun Dec 16 17:20:00 EET 2012
-Anomaly # 369.0			Anomaly at index: 32430		Value: 131.072		Time: Sun Dec 16 17:30:00 EET 2012
-Anomaly # 370.0			Anomaly at index: 32431		Value: 132.096		Time: Sun Dec 16 17:40:00 EET 2012
-Anomaly # 371.0			Anomaly at index: 32432		Value: 133.12		Time: Sun Dec 16 17:50:00 EET 2012
-Anomaly # 372.0			Anomaly at index: 32433		Value: 133.12		Time: Sun Dec 16 18:00:00 EET 2012
-Anomaly # 373.0			Anomaly at index: 32434		Value: 130.048		Time: Sun Dec 16 18:10:00 EET 2012
-Anomaly # 374.0			Anomaly at index: 32435		Value: 136.192		Time: Sun Dec 16 18:20:00 EET 2012
-Anomaly # 375.0			Anomaly at index: 32436		Value: 129.024		Time: Sun Dec 16 18:30:00 EET 2012
-Anomaly # 376.0			Anomaly at index: 32437		Value: 130.56		Time: Sun Dec 16 18:40:00 EET 2012
-Anomaly # 377.0			Anomaly at index: 32438		Value: 133.12		Time: Sun Dec 16 18:50:00 EET 2012
-Anomaly # 378.0			Anomaly at index: 32439		Value: 136.192		Time: Sun Dec 16 19:00:00 EET 2012
-Anomaly # 379.0			Anomaly at index: 32440		Value: 129.536		Time: Sun Dec 16 19:10:00 EET 2012
-Anomaly # 380.0			Anomaly at index: 32441		Value: 129.024		Time: Sun Dec 16 19:20:00 EET 2012
-Anomaly # 381.0			Anomaly at index: 32442		Value: 121.856		Time: Sun Dec 16 19:30:00 EET 2012
-Anomaly # 382.0			Anomaly at index: 32443		Value: 134.144		Time: Sun Dec 16 19:40:00 EET 2012
-Anomaly # 383.0			Anomaly at index: 32444		Value: 133.12		Time: Sun Dec 16 19:50:00 EET 2012
-Anomaly # 384.0			Anomaly at index: 32445		Value: 127.488		Time: Sun Dec 16 20:00:00 EET 2012
-Anomaly # 385.0			Anomaly at index: 32446		Value: 125.952		Time: Sun Dec 16 20:10:00 EET 2012
-Anomaly # 386.0			Anomaly at index: 32447		Value: 124.928		Time: Sun Dec 16 20:20:00 EET 2012
-Anomaly # 387.0			Anomaly at index: 32448		Value: 130.56		Time: Sun Dec 16 20:30:00 EET 2012
-Anomaly # 388.0			Anomaly at index: 32449		Value: 134.144		Time: Sun Dec 16 20:40:00 EET 2012
-Anomaly # 389.0			Anomaly at index: 32450		Value: 134.144		Time: Sun Dec 16 20:50:00 EET 2012
-Anomaly # 390.0			Anomaly at index: 32451		Value: 132.096		Time: Sun Dec 16 21:00:00 EET 2012
-Anomaly # 391.0			Anomaly at index: 32452		Value: 126.976		Time: Sun Dec 16 21:10:00 EET 2012
-Anomaly # 392.0			Anomaly at index: 32453		Value: 125.952		Time: Sun Dec 16 21:20:00 EET 2012
-Anomaly # 393.0			Anomaly at index: 32455		Value: 133.12		Time: Sun Dec 16 21:40:00 EET 2012
-Anomaly # 394.0			Anomaly at index: 32457		Value: 127.488		Time: Sun Dec 16 22:00:00 EET 2012
-Anomaly # 395.0			Anomaly at index: 32459		Value: 131.072		Time: Sun Dec 16 22:20:00 EET 2012
-Anomaly # 396.0			Anomaly at index: 32460		Value: 128.0		Time: Sun Dec 16 22:30:00 EET 2012
-Anomaly # 397.0			Anomaly at index: 32463		Value: 126.976		Time: Sun Dec 16 23:00:00 EET 2012
-Anomaly # 398.0			Anomaly at index: 32464		Value: 127.488		Time: Sun Dec 16 23:10:00 EET 2012
-Anomaly # 399.0			Anomaly at index: 32465		Value: 130.048		Time: Sun Dec 16 23:20:00 EET 2012
-Anomaly # 400.0			Anomaly at index: 32468		Value: 128.0		Time: Sun Dec 16 23:50:00 EET 2012
-Anomaly # 401.0			Anomaly at index: 32470		Value: 130.048		Time: Mon Dec 17 00:10:00 EET 2012
-Anomaly # 402.0			Anomaly at index: 32473		Value: 132.096		Time: Mon Dec 17 00:40:00 EET 2012
-Anomaly # 403.0			Anomaly at index: 32482		Value: 137.216		Time: Mon Dec 17 02:10:00 EET 2012
-Anomaly # 404.0			Anomaly at index: 33366		Value: 158.72		Time: Sun Dec 23 09:10:00 EET 2012
-Anomaly # 405.0			Anomaly at index: 33961		Value: 153.6		Time: Thu Dec 27 16:00:00 EET 2012
-Anomaly # 406.0			Anomaly at index: 34459		Value: 152.576		Time: Mon Dec 31 03:00:00 EET 2012
-Anomaly # 407.0			Anomaly at index: 34461		Value: 153.6		Time: Mon Dec 31 03:20:00 EET 2012
-Anomaly # 408.0			Anomaly at index: 34464		Value: 153.6		Time: Mon Dec 31 03:50:00 EET 2012
-Anomaly # 409.0			Anomaly at index: 34466		Value: 152.576		Time: Mon Dec 31 04:10:00 EET 2012
-Anomaly # 410.0			Anomaly at index: 36745		Value: 145.408		Time: Wed Jan 16 12:00:00 EET 2013
-Anomaly # 411.0			Anomaly at index: 37326		Value: 146.432		Time: Sun Jan 20 12:50:00 EET 2013
-Anomaly # 412.0			Anomaly at index: 37757		Value: 147.456		Time: Wed Jan 23 17:10:00 EET 2013
+E.quake # 10.0			Anomaly at index: 1954		Value: 5.622			Time: Mon Jun 18 20:39:02 EEST 2012
+
+Anomaly # 11.0			Anomaly at index: 6906		Value: 110.592		Time: Mon Jun 18 19:00:00 EEST 2012
+E.quake # 11.0			Anomaly at index: 1954		Value: 5.622			Time: Mon Jun 18 20:39:02 EEST 2012
+
+Anomaly # 12.0			Anomaly at index: 12287		Value: 113.664		Time: Thu Jul 26 20:40:00 EEST 2012
+E.quake # 12.0			Anomaly at index: 2760		Value: 6.232			Time: Fri Jul 27 07:15:07 EEST 2012
+
+Anomaly # 13.0			Anomaly at index: 12288		Value: 114.176		Time: Thu Jul 26 20:50:00 EEST 2012
+E.quake # 13.0			Anomaly at index: 2760		Value: 6.232			Time: Fri Jul 27 07:15:07 EEST 2012
+
+Anomaly # 14.0			Anomaly at index: 12927		Value: 113.152		Time: Tue Jul 31 11:00:00 EEST 2012
+E.quake # 14.0			Anomaly at index: 2800		Value: 5.307			Time: Tue Jul 31 11:26:14 EEST 2012
+
+Anomaly # 15.0			Anomaly at index: 13212		Value: 121.344		Time: Thu Aug 02 10:30:00 EEST 2012
+E.quake # 15.0			Anomaly at index: 2826		Value: 5.359			Time: Fri Aug 03 03:44:18 EEST 2012
+
+Anomaly # 16.0			Anomaly at index: 15526		Value: 118.272		Time: Sat Aug 18 20:20:00 EEST 2012
+Anomaly # 17.0			Anomaly at index: 15789		Value: 103.936		Time: Mon Aug 20 19:10:00 EEST 2012
+E.quake # 16.0			Anomaly at index: 3044		Value: 5.445			Time: Mon Aug 20 22:00:42 EEST 2012
+
+Anomaly # 18.0			Anomaly at index: 15916		Value: 105.984		Time: Tue Aug 21 16:20:00 EEST 2012
+E.quake # 17.0			Anomaly at index: 3056		Value: 6.097			Time: Tue Aug 21 23:47:23 EEST 2012
+
+Anomaly # 19.0			Anomaly at index: 16032		Value: 106.496		Time: Wed Aug 22 11:40:00 EEST 2012
+E.quake # 18.0			Anomaly at index: 3068		Value: 5.528			Time: Thu Aug 23 05:54:44 EEST 2012
+
+Anomaly # 20.0			Anomaly at index: 16722		Value: 114.176		Time: Mon Aug 27 06:40:00 EEST 2012
+Anomaly # 21.0			Anomaly at index: 17424		Value: 120.32		Time: Sat Sep 01 08:10:00 EEST 2012
+E.quake # 19.0			Anomaly at index: 3201		Value: 5.545			Time: Sun Sep 02 01:01:27 EEST 2012
+
+Anomaly # 22.0			Anomaly at index: 18417		Value: 116.224		Time: Sat Sep 08 09:00:00 EEST 2012
+E.quake # 20.0			Anomaly at index: 3266		Value: 5.301			Time: Sat Sep 08 16:34:56 EEST 2012
+
+Anomaly # 23.0			Anomaly at index: 21160		Value: 118.272		Time: Thu Sep 27 19:20:00 EEST 2012
+E.quake # 21.0			Anomaly at index: 3469		Value: 5.18			Time: Thu Sep 27 22:00:25 EEST 2012
+
+Anomaly # 24.0			Anomaly at index: 27390		Value: 154.624		Time: Sat Nov 10 23:50:00 EET 2012
+E.quake # 22.0			Anomaly at index: 4059		Value: 5.001			Time: Sun Nov 11 23:32:42 EET 2012
+
+Anomaly # 25.0			Anomaly at index: 28925		Value: 136.192		Time: Wed Nov 21 22:20:00 EET 2012
+Anomaly # 26.0			Anomaly at index: 28926		Value: 137.216		Time: Wed Nov 21 22:30:00 EET 2012
+Anomaly # 27.0			Anomaly at index: 28927		Value: 136.192		Time: Wed Nov 21 22:40:00 EET 2012
+Anomaly # 28.0			Anomaly at index: 28928		Value: 137.216		Time: Wed Nov 21 22:50:00 EET 2012
+Anomaly # 29.0			Anomaly at index: 28929		Value: 140.288		Time: Wed Nov 21 23:00:00 EET 2012
+Anomaly # 30.0			Anomaly at index: 28930		Value: 144.384		Time: Wed Nov 21 23:10:00 EET 2012
+Anomaly # 31.0			Anomaly at index: 28931		Value: 141.312		Time: Wed Nov 21 23:20:00 EET 2012
+Anomaly # 32.0			Anomaly at index: 28932		Value: 137.216		Time: Wed Nov 21 23:30:00 EET 2012
+Anomaly # 33.0			Anomaly at index: 28933		Value: 140.288		Time: Wed Nov 21 23:40:00 EET 2012
+Anomaly # 34.0			Anomaly at index: 28934		Value: 135.168		Time: Wed Nov 21 23:50:00 EET 2012
+Anomaly # 35.0			Anomaly at index: 28935		Value: 138.24		Time: Thu Nov 22 00:00:00 EET 2012
+Anomaly # 36.0			Anomaly at index: 28936		Value: 133.12		Time: Thu Nov 22 00:10:00 EET 2012
+Anomaly # 37.0			Anomaly at index: 28937		Value: 140.288		Time: Thu Nov 22 00:20:00 EET 2012
+Anomaly # 38.0			Anomaly at index: 28938		Value: 133.12		Time: Thu Nov 22 00:30:00 EET 2012
+Anomaly # 39.0			Anomaly at index: 28939		Value: 140.288		Time: Thu Nov 22 00:40:00 EET 2012
+Anomaly # 40.0			Anomaly at index: 28940		Value: 134.144		Time: Thu Nov 22 00:50:00 EET 2012
+Anomaly # 41.0			Anomaly at index: 28942		Value: 142.336		Time: Thu Nov 22 01:10:00 EET 2012
+Anomaly # 42.0			Anomaly at index: 28943		Value: 141.312		Time: Thu Nov 22 01:20:00 EET 2012
+Anomaly # 43.0			Anomaly at index: 28949		Value: 135.168		Time: Thu Nov 22 02:20:00 EET 2012
+Anomaly # 44.0			Anomaly at index: 31336		Value: 131.072		Time: Sun Dec 09 00:00:00 EET 2012
+E.quake # 23.0			Anomaly at index: 5030		Value: 5.342			Time: Sun Dec 09 02:42:55 EET 2012
+
+Anomaly # 45.0			Anomaly at index: 31338		Value: 131.072		Time: Sun Dec 09 00:20:00 EET 2012
+E.quake # 24.0			Anomaly at index: 5030		Value: 5.342			Time: Sun Dec 09 02:42:55 EET 2012
+
+Anomaly # 46.0			Anomaly at index: 32319		Value: 139.264		Time: Sat Dec 15 23:00:00 EET 2012
+E.quake # 25.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 47.0			Anomaly at index: 32321		Value: 142.336		Time: Sat Dec 15 23:20:00 EET 2012
+E.quake # 26.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 48.0			Anomaly at index: 32324		Value: 139.264		Time: Sat Dec 15 23:50:00 EET 2012
+E.quake # 27.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 49.0			Anomaly at index: 32326		Value: 137.216		Time: Sun Dec 16 00:10:00 EET 2012
+E.quake # 28.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 50.0			Anomaly at index: 32330		Value: 139.264		Time: Sun Dec 16 00:50:00 EET 2012
+E.quake # 29.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 51.0			Anomaly at index: 32334		Value: 139.264		Time: Sun Dec 16 01:30:00 EET 2012
+E.quake # 30.0			Anomaly at index: 5121		Value: 5.373			Time: Sun Dec 16 09:03:05 EET 2012
+
+Anomaly # 52.0			Anomaly at index: 32428		Value: 141.312		Time: Sun Dec 16 17:10:00 EET 2012
+Anomaly # 53.0			Anomaly at index: 33366		Value: 158.72		Time: Sun Dec 23 09:10:00 EET 2012
+E.quake # 31.0			Anomaly at index: 5229		Value: 5.091			Time: Mon Dec 24 01:08:26 EET 2012
+
+Anomaly # 54.0			Anomaly at index: 33961		Value: 153.6		Time: Thu Dec 27 16:00:00 EET 2012
+E.quake # 32.0			Anomaly at index: 5283		Value: 5.694			Time: Thu Dec 27 18:09:10 EET 2012
+
+Anomaly # 55.0			Anomaly at index: 34459		Value: 152.576		Time: Mon Dec 31 03:00:00 EET 2012
+Anomaly # 56.0			Anomaly at index: 34461		Value: 153.6		Time: Mon Dec 31 03:20:00 EET 2012
+Anomaly # 57.0			Anomaly at index: 34464		Value: 153.6		Time: Mon Dec 31 03:50:00 EET 2012
+Anomaly # 58.0			Anomaly at index: 34466		Value: 152.576		Time: Mon Dec 31 04:10:00 EET 2012
+Anomaly # 59.0			Anomaly at index: 36745		Value: 145.408		Time: Wed Jan 16 12:00:00 EET 2013
+Anomaly # 60.0			Anomaly at index: 37326		Value: 146.432		Time: Sun Jan 20 12:50:00 EET 2013
+E.quake # 33.0			Anomaly at index: 5550		Value: 5.33			Time: Sun Jan 20 13:58:35 EET 2013
+
+Anomaly # 61.0			Anomaly at index: 37757		Value: 147.456		Time: Wed Jan 23 17:10:00 EET 2013

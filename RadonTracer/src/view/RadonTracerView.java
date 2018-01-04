@@ -59,6 +59,8 @@ public class RadonTracerView{
 			public void actionPerformed(ActionEvent e)
 			{
 				radonAnswerField.setText("...");
+				//System.out.print("Button Pressed: ");
+				//System.out.println(radonFields[5].getText() + "\n\n");
 				String in_result = calculator.AnomalyCalculate(
 						Integer.parseInt(radonFields[0].getText()), 
 						Integer.parseInt(radonFields[1].getText()), 
@@ -87,20 +89,20 @@ public class RadonTracerView{
 		radonFields[1].setToolTipText("Anomaly Initial Value (%)");
 		radonFields[1].setText("12");
 		radonFields[2].setToolTipText("Anomaly Final Value (%)");	
-		radonFields[2].setText("100");
-		radonFields[3].setToolTipText("Magnitute Initial Value (0.01)");
+		radonFields[2].setText("30");
+		radonFields[3].setToolTipText("Me Initial Value");
 		radonFields[3].setText("5");
-		radonFields[4].setToolTipText("Magnitute Final Value (0.01)");
+		radonFields[4].setToolTipText("Me Final Value");
 		radonFields[4].setText("10");
-		radonFields[5].setToolTipText("Detection Period (+- hours)");
+		radonFields[5].setToolTipText("Detection Period (+ hours)");
 		radonFields[5].setText("24");
 
 		radonLabels[0].setText("ADP");	radonLabelInfos[0].setText("Anomaly Detection Period (+- hours)");
 		radonLabels[1].setText("AIV");	radonLabelInfos[1].setText("Anomaly Initial Value (%)");
 		radonLabels[2].setText("AFV");	radonLabelInfos[2].setText("Anomaly Final Value (%)");
-		radonLabels[3].setText("EIV");	radonLabelInfos[3].setText("Magnitude Initial Value (0-25)");
-		radonLabels[4].setText("EFV");	radonLabelInfos[4].setText("Magnitude Final Value (0-25)");
-		radonLabels[5].setText("DPR");	radonLabelInfos[5].setText("Detection Period (+- hours)");
+		radonLabels[3].setText("EIV");	radonLabelInfos[3].setText("Me Initial Value");
+		radonLabels[4].setText("EFV");	radonLabelInfos[4].setText("Me Final Value");
+		radonLabels[5].setText("DPR");	radonLabelInfos[5].setText("Detection Period (+ hours)");
 
 		// Set the main panel
 		GridBagLayout gbl_panel = new GridBagLayout();

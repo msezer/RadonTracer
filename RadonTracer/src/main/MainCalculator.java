@@ -23,6 +23,7 @@ public class MainCalculator {
 	private int dpr = 0;
 
 	private final String FILENAME = "src/data/results.txt";
+	private final String RESULTS = "src/data/RadonTracerResults.csv";
 	private final String csvFileDeprem = "src/data/deprem.csv";
 	private final String csvFileToprak = "src/data/toprak.csv";
 
@@ -38,7 +39,7 @@ public class MainCalculator {
 
 	public String AnomalyCalculate(int adpi, int aivi, int afvi, int eivi, int efvi, int dpri) {
 		
-		System.out.println("Reading CSV Files");
+		//System.out.println("Reading CSV Files");
 
 		// read earthquakes
 		try (BufferedReader br = new BufferedReader(new FileReader(csvFileDeprem))) {
@@ -75,9 +76,9 @@ public class MainCalculator {
 			e.printStackTrace();
 			System.out.println("Class: MainCalculator; SoilTime Unparseable");
 		}
-		System.out.println("Reading CSV Files Finished");
+		//System.out.println("1218: Reading-" + earthquakes.get(1217).geteDate() + " observe: " + earthquakes.get(1217).geteMe());
 
-		System.out.println("Anomaly Calculate Method Called");
+		//System.out.println("Anomaly Calculate Method Called");
 
 		String result = "";
 		double num_anomaly = 0;
@@ -95,7 +96,7 @@ public class MainCalculator {
 		try (BufferedWriter bw1 = new BufferedWriter(new FileWriter(FILENAME))) {
 			String content = "Radon Tracer Results\n\nDate-Time of Calculation: " + LocalDateTime.now().toString() + 
 					"\n\nValues: " + adp + ", " + aiv + ", " + afv + ", " +
-					eiv + ", " + efv + ", " + dpr +  "\n";
+					eiv + ", " + efv + ", " + dpr +  "\n\n";
 			bw1.write(content);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -104,10 +105,12 @@ public class MainCalculator {
 
 		boolean soilsCheck = true;
 		for (int is = 1; (is < soils.size() && soilsCheck); is++) {
+		//for (int is = 3720; (is < 3730 && soilsCheck); is++) {
 			if (soils.get(is).getsDate().getTime() - soils.get(0).getsDate().getTime() < adp * 60 * 60 * 1000) {
 				// do nothing, because we need to increase "is" for adp period
 			} else if (soils.get(soils.size()-1).getsDate().getTime() - soils.get(is).getsDate().getTime() < adp * 60 * 60 * 1000) {
 				// adp period is over, so break the main loop
+				//System.out.println("Deneme: " + soils.get(is).getsDate());
 				soilsCheck = false;
 			}
 			else {
@@ -151,11 +154,14 @@ public class MainCalculator {
 					// find the earthquakes related to anomaly
 					boolean mainEarthquakeLoop = true;
 					for (int eq = 0; (eq < earthquakes.size() && mainEarthquakeLoop); eq++) {
+						//System.out.println(is + "First#" + eq + " date: " + earthquakes.get(eq).geteDate() + " Me: " + earthquakes.get(eq).geteMe());
 						if (earthquakes.get(eq).geteDate().getTime() - soils.get(is).getsDate().getTime() <= 0) {
+							//System.out.println(is + "Wait#" + eq + " me: " + earthquakes.get(eq).geteDate() + " Me: " + earthquakes.get(eq).geteMe());
 							// do nothing because the earthquake was happened before anomaly
 						} else {
 							if(earthquakes.get(eq).geteDate().getTime() - soils.get(is).getsDate().getTime() > dpr * 60 * 60 * 1000) {
 								// break the loop because detection period has passed
+								//System.out.println(is + "Leave#" + eq + " me: " + earthquakes.get(eq).geteDate() + " Me: " + earthquakes.get(eq).geteMe());
 								mainEarthquakeLoop = false;
 							}
 							else {
@@ -163,6 +169,9 @@ public class MainCalculator {
 									// there is an earthquake, break the loop
 									mainEarthquakeLoop = false;
 									num_anomalywithEarthquake++;
+									//System.out.println(is + "Found#" + eq + " me: " + earthquakes.get(eq).geteDate() + " Me: " + earthquakes.get(eq).geteMe());
+									//System.out.println("Anomaly Current Time: " + soils.get(is).getsDate());
+									//System.out.println("Ea Time             : " + earthquakes.get(eq).geteDate());
 									
 									try (BufferedWriter bw3 = new BufferedWriter(new FileWriter(FILENAME, true))) {
 										String content = "E.quake # " + num_anomalywithEarthquake + "\t\t\tAnomaly at index: " + eq +
@@ -183,15 +192,28 @@ public class MainCalculator {
 
 		System.out.println("Anomalies with earthquake: " + num_anomalywithEarthquake);
 		System.out.println("Anomaly #                : " + num_anomaly);
-		System.out.println("Calculation is done!\n");
 
+		DecimalFormat decimalFormat = new DecimalFormat("#.000");
 		if (num_anomalywithEarthquake == 0.0) {
 			result =  "0.0 / " +  num_anomaly + " = % 0.0";
 		} else {
 			double number = (num_anomalywithEarthquake * 100) / num_anomaly;
-			DecimalFormat decimalFormat = new DecimalFormat("#.00");
 			result = num_anomalywithEarthquake + " / " + num_anomaly + " = % " + decimalFormat.format(number);
 		}
+		System.out.println("Values: " + adp + ", " + aiv + ", " + afv + ", " +
+				eiv + ", " + efv + ", " + dpr);
+		System.out.println("Result: " + result);
+		System.out.println("Calculation is done!\n");
+		
+		try (BufferedWriter bw4 = new BufferedWriter(new FileWriter(RESULTS, true))) {
+			String content = adp + ";" + aiv + ";" + afv + ";" + eiv + ";" + efv + ";" + dpr + ";" +
+					num_anomalywithEarthquake + ";" + num_anomaly + ";" + 
+					decimalFormat.format((num_anomalywithEarthquake * 100) / num_anomaly) + "\n";
+			bw4.write(content);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
 		return result;
 	}
 }
